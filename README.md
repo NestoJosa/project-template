@@ -11,7 +11,7 @@ git remote rm origin
 - create a new remote repo
 - add the new remote repo to the newly created project
 - update the proxy in gulpfile
-- run npm install
+- run 'npm install'
 - update the readme.md: at least remove these instructions
 
 Bootstrap
